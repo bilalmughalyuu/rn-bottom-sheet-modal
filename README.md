@@ -10,7 +10,15 @@ A lightweight and customizable **Bottom Sheet Modal** component for **React Nati
 - **Smooth animations**
 - Tap outside to close
 
-[![Bottom Sheet Demo](https://firebasestorage.googleapis.com/v0/b/todolist-swift-5d3c7.appspot.com/o/150314d7-51fd-4b69-a365-3d657a9cc836.jpg?alt=media&token=1b55133c-6c20-424e-b5cd-e47e44f45632$0)](https://firebasestorage.googleapis.com/v0/b/todolist-swift-5d3c7.appspot.com/o/Simulator%20Screen%20Recording%20-%20iPhone%2016%20Pro%20-%202025-04-15%20at%2015.54.25.mp4?alt=media&token=493fa9e9-8f03-494a-b85e-3781d43f83d9)
+Below is a demo of the BottomSheetModal in action. Click the play button to watch the video:
+
+
+## ✨ Demo
+
+<video width="320" height="568" controls> <source src="https://firebasestorage.googleapis.com/v0/b/todolist-swift-5d3c7.appspot.com/o/Simulator%20Screen%20Recording%20-%20iPhone%2016%20Pro%20-%202025-04-15%20at%2015.54.25.mp4?alt=media&token=493fa9e9-8f03-494a-b85e-3781d43f83d9" type="video/mp4"> Your browser does not support the video tag. [Click here to watch the demo](https://firebasestorage.googleapis.com/v0/b/todolist-swift-5d3c7.appspot.com/o/Simulator%20Screen%20Recording%20-%20iPhone%2016%20Pro%20-%202025-04-15%20at%2015.54.25.mp4?alt=media&token=493fa9e9-8f03-494a-b85e-3781d43f83d9). </video>
+Alternatively, you can watch the demo video here if the embedded video doesn’t load.
+
+<br />
 
 <br />
 
