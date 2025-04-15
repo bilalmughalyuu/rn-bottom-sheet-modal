@@ -1,0 +1,36 @@
+{
+  "name": "rn-bottom-sheet-modal",
+  "description": "A lightweight and customizable Bottom Sheet Modal component for React Native.",
+  "version": "1.2.11",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "react-native",
+    "bottom-sheet",
+    "reanimated",
+    "ios",
+    "android",
+    "modal"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "dist"
+  ],
+  "author": "Muhammad Bilal",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-native": ">=0.60.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.2",
+    "@types/react-native": "^0.72.8",
+    "typescript": "^5.8.3",
+    "react": "^19.1.0",
+    "react-native": "^0.79.0"
+  }
+}
