@@ -25,14 +25,14 @@ const BottomSheetModal = ({ modalVisible, onClose, children, }) => {
         });
     };
     return (React.createElement(Modal, { visible: modalVisible, transparent: true, animationType: "none", statusBarTranslucent: true, navigationBarTranslucent: true, onRequestClose: closeModal },
-        React.createElement(TouchableWithoutFeedback, { onPress: closeModal },
-            React.createElement(View, { style: styles.modalOverlay },
-                React.createElement(TouchableWithoutFeedback, { onPress: () => { } },
-                    React.createElement(Animated.View, { style: [
-                            {
-                                transform: [{ translateY: slideAnim }],
-                            },
-                        ] }, children))))));
+        React.createElement(View, { style: styles.modalOverlay },
+            React.createElement(TouchableWithoutFeedback, { onPress: closeModal },
+                React.createElement(View, { style: StyleSheet.absoluteFill })),
+            React.createElement(Animated.View, { style: [
+                    {
+                        transform: [{ translateY: slideAnim }],
+                    },
+                ] }, children))));
 };
 const styles = StyleSheet.create({
     modalOverlay: {

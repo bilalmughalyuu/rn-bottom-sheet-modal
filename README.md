@@ -1,6 +1,6 @@
 # rn-bottom-sheet-modal
 
-A lightweight and customizable **Bottom Sheet Modal** component for **React Native**, built with pure JS and no dependencies.
+A lightweight and customizable **Bottom Sheet Modal** component for **React Native**, built with pure JS and no dependencies. Use the custom componnet as child of Bottom Sheet. Provide smooth scrolling as well.
 
 ## ✨ Features
 
