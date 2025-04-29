@@ -1,17 +1,16 @@
 # rn-bottom-sheet-modal
 
-A lightweight and customizable **Bottom Sheet Modal** component for **React Native**, built with pure JS and no dependencies. Use the custom componnet as child of Bottom Sheet. Provide smooth scrolling as well.
+A lightweight and customizable **Bottom Sheet Modal** component for **React Native**, built with pure JS and no dependencies. Use the custom component as child of Bottom Sheet. Provide smooth scrolling as well.
 
 ## ✨ Features
 
 - **Simple and customizable**
-- Overlay over whole app (displayed on top of the app)
+- **Overlay over whole app (displayed on top of the app)**
 - **Pure JS** implementation (no native code needed)
 - **Smooth animations**
-- Tap outside to close
+- **Tap outside to close**
 
 Below is a demo of the BottomSheetModal in action. Click the play button to watch the video:
-
 
 ## ✨ Demo
 
@@ -102,7 +101,6 @@ export default App;
 <br />
 
 If this repo is helpful to you, buy me a coffee,thank you very much!😄
-
 
 <a href="https://buymeacoffee.com/bilalyuu" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
